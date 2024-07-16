@@ -1,0 +1,30 @@
+metamask mnemonic
+consider curve thrive soda social drip lesson report gold limb clay program
+
+test-rinkeby-infra
+https://rinkeby.infura.io/v3/2c6cda198a534e35bda036b9761a9cc3
+
+
+Web3 use:
+const provider = new HDWalletProvider(
+  'consider curve thrive soda social drip lesson report gold limb clay program',
+  'https://rinkeby.infura.io/v3/2c6cda198a534e35bda036b9761a9cc3'
+);
+
+mnemonic:
+consider curve thrive soda social drip lesson report gold limb clay program
+
+
+faucet to transfer money
+http://rinkeby-faucet.com
+
+infra-dashboard
+https://infura.io/dashboard/ethereum/2c6cda198a534e35bda036b9761a9cc3/settings
+
+metamask:
+moz-extension://6e0b3e27-a90d-4919-90e5-58d32ff5ea93/home.html#
+
+https://rinkeby.etherscan.io/address/0xeF41C341E1513c7683Ea8F9d6Cd2108ad748408e
+
+Account(Rinkeby)
+0xeF41C341E1513c7683Ea8F9d6Cd2108ad748408e
